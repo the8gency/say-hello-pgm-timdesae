@@ -23,34 +23,36 @@ consumer in mind.
 ---
 ## :mortar_board:  Education
 
-- **2017 TOT 2020**
+**2017 TOT 2020**
 ARTEVELDE HOGESCHOOL — Afgestudeerd aan Artevelde
 hogeschool in de richting Grafische en digitale media,
 afstudeerrichting Crossmedia-Ontwerp. (bachelor-opleiding)
 
-- **2012 TOT 2016**
+**2012 TOT 2016**
 DON BOSCO HALLE — Afgestudeerd in de richting
 Grafische Communicatie.
 
-- **2009 TOT 2011**
+**2009 TOT 2011**
 SINT- ALOYSIUSCOLLEGE NINOVE — Moderne Wetenschappen
 
 ---
 ## :pencil2:  Experience
 
-- *2020*
+## *2020*
 
 **GREEN BANANAS MARKETING & COMMUNICATION - GRAPHIC DESIGNER**
 
 Participating in a communication company. I was responsible for all graphic applications, both digital and print. Very varied range of tasks from web designs to car wrapping.
 
-- *2018 - 2019*
+
+## *2018 - 2019*
 
 **B&A RENTAL - JOB STUDENT: RIDER**
 
 A combination of sports, dealing with animals and drawing up time schedules.
 
-- *2017 - 2018 - 2019 - 2020*
+
+## *2017 - 2018 - 2019 - 2020*
 
 **HANDI MOVE INTERNATIONAL - JOB STUDENT: MECHANICIAN**
 
@@ -58,8 +60,8 @@ Highly skilled and reliable student who is not afraid to be
 dirty hands. Carrying out repairs to systems
 for the disabled.
 
-- <style>p{color:red;}*2016*</style>
-<span style="color:blue">some *blue* text</span>.
+
+### *2016*
 
 **SYMETHA - COLRUYT - JOB STUDENT**
 
