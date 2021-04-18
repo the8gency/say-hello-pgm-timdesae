@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apipgm-timdesae)](https://github.com/anuraghazra/github-readme-stats)
+
 # Helo! :wave: I am De Saeger Tim
 
 ---
