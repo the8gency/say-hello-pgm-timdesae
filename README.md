@@ -76,7 +76,8 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=yellow) &nbsp; 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=blue)
 ![Adobe XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=ff69b4) &nbsp;
-![Adobe XD](https://img.shields.io/badge/Adobe-Lightroom-informational?style=flat&logo=adobe-lightroom&logoColor=white&color=blue) &nbsp; 
+![Adobe Lightroom](https://img.shields.io/badge/Adobe-Lightroom-informational?style=flat&logo=adobe-lightroom&logoColor=white&color=blue) &nbsp; 
+![Adobe Acrobat](https://img.shields.io/badge/Adobe-Acrobat-informational?style=flat&logo=adobe-acrobat&logoColor=white&color=red) &nbsp; 
 
 
 ### Programming
