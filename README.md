@@ -4,11 +4,7 @@
 ---
 ## Personal info
 
-![Image of me](https://scontent-bru2-1.xx.fbcdn.net/v/t1.6435-9/104998933_3175331759222601_7489907506822802096_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=8TFZhDHWQiIAX_mBFjh&_nc_ht=scontent-bru2-1.xx&oh=4e534a6c1382377bbb5ac321dde5d5de&oe=60A08C60&size=50x50)
-
-[<img src='https://scontent-bru2-1.xx.fbcdn.net/v/t1.6435-9/104998933_3175331759222601_7489907506822802096_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=8TFZhDHWQiIAX_mBFjh&_nc_ht=scontent-bru2-1.xx&oh=4e534a6c1382377bbb5ac321dde5d5de&oe=60A08C60&size=50x50' alt='me' height='40'>](me)
-
-[<img src="[./img/tim.jpeg]" width="200"/>](tim.png)
+[<img src='https://scontent-bru2-1.xx.fbcdn.net/v/t1.6435-9/104998933_3175331759222601_7489907506822802096_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=8TFZhDHWQiIAX_mBFjh&_nc_ht=scontent-bru2-1.xx&oh=4e534a6c1382377bbb5ac321dde5d5de&oe=60A08C60&size=100x100' alt='me' height='60'>](me)
 
 - :birthday: 20/08/1998 te Aalst
 - :house_with_garden: Kerkhofstraat 71 9406 Ninove
@@ -100,7 +96,11 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 ---
 ## Socials
 
-[<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=black&color=white' alt='github' height='40'>](https://github.com/pgm-jamihart) &nbsp; [<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/jamie-lee-hart-272b08100/) &nbsp; [<img src='https://img.shields.io/badge/Stack_Overflow-informational?style=flat&logo=stack-overflow&logoColor=white&color=orange' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15403327)   
+[<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=black&color=white' alt='github' height='40'>](https://github.com/pgm-jamihart) &nbsp; 
+
+[<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/jamie-lee-hart-272b08100/) &nbsp; 
+
+[<img src='https://img.shields.io/badge/instagram-informational?style=flat&logo=instagram&logoColor=white&color=orange' alt='instagram' height='40'>](https://www.instagram.com/?hl=nl)   
 
 
 ---
