@@ -77,7 +77,7 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 
 ### Design
 
-![Adobe Indesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=red&color=red) &nbsp; 
+![Adobe Indesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=red) &nbsp; 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=yellow) &nbsp; 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=blue)
 ![Adobe XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=ff69b4) &nbsp;
@@ -99,7 +99,7 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 ---
 ## Socials
 
-[<img src='https://img.shields.io/badge/Adobe-Portfolio-informational?style=flat&logo=adobe-portfolio&logoColor=blue&color=white' alt='adobe portfolio' height='30'>](https://desaegertim.myportfolio.com/) &nbsp; [<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=blueviolet&color=white' alt='github' height='30'>](https://github.com/pgm-timdesae) &nbsp; [<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='30'>](https://www.linkedin.com/in/tim-de-saeger-172aa81b4/) &nbsp; [<img src='https://img.shields.io/badge/instagram-informational?style=flat&logo=instagram&logoColor=white&color=orange' alt='instagram' height='30'>](https://www.instagram.com/timds_dsign/?hl=nl)   
+[<img src='https://img.shields.io/badge/Adobe-Portfolio-informational?style=flat&logo=adobe-portfolio&logoColor=blue&color=blue' alt='adobe portfolio' height='30'>](https://desaegertim.myportfolio.com/) &nbsp; [<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=blueviolet&color=white' alt='github' height='30'>](https://github.com/pgm-timdesae) &nbsp; [<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='30'>](https://www.linkedin.com/in/tim-de-saeger-172aa81b4/) &nbsp; [<img src='https://img.shields.io/badge/instagram-informational?style=flat&logo=instagram&logoColor=white&color=orange' alt='instagram' height='30'>](https://www.instagram.com/timds_dsign/?hl=nl)   
 
 
 ---
