@@ -4,7 +4,7 @@
 ---
 ## Personal info
 
-[<img src='https://scontent-bru2-1.xx.fbcdn.net/v/t1.6435-9/104998933_3175331759222601_7489907506822802096_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=8TFZhDHWQiIAX_mBFjh&_nc_ht=scontent-bru2-1.xx&oh=4e534a6c1382377bbb5ac321dde5d5de&oe=60A08C60&size=100x100' alt='me' height='150'>](me)
+[<img src='https://scontent-bru2-1.xx.fbcdn.net/v/t1.6435-9/104998933_3175331759222601_7489907506822802096_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=8TFZhDHWQiIAX_mBFjh&_nc_ht=scontent-bru2-1.xx&oh=4e534a6c1382377bbb5ac321dde5d5de&oe=60A08C60&size=100x100' alt='me' height='200'>](me)
 
 - :birthday: 20/08/1998 te Aalst
 - :house_with_garden: Kerkhofstraat 71 9406 Ninove
@@ -25,17 +25,20 @@ consumer in mind.
 ---
 ## :mortar_board:  Education
 
-**2017 TOT 2020**
-ARTEVELDE HOGESCHOOL — Afgestudeerd aan Artevelde
-hogeschool in de richting Grafische en digitale media,
-afstudeerrichting Crossmedia-Ontwerp. (bachelor-opleiding)
+### *2017 TOT 2020*
 
-**2012 TOT 2016**
-DON BOSCO HALLE — Afgestudeerd in de richting
-Grafische Communicatie.
+**ARTEVELDE HOGESCHOOL** — Graduated from Artevelde
+university of applied sciences in the direction of Graphic and digital media,
+specialization Cross Media Design. (bachelor degree)
 
-**2009 TOT 2011**
-SINT- ALOYSIUSCOLLEGE NINOVE — Moderne Wetenschappen
+### *2012 TOT 2016*
+
+**DON BOSCO HALLE** — Graduated 
+Graphic communication.
+
+### *2009 TOT 2011*
+
+**SINT- ALOYSIUSCOLLEGE NINOVE** — Modern sciences
 
 ---
 ## :pencil2:  Experience
@@ -96,11 +99,7 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 ---
 ## Socials
 
-[<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=blueviolet&color=white' alt='github' height='40'>](https://github.com/pgm-timdesae) &nbsp; 
-
-[<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/tim-de-saeger-172aa81b4/) &nbsp; 
-
-[<img src='https://img.shields.io/badge/instagram-informational?style=flat&logo=instagram&logoColor=white&color=orange' alt='instagram' height='40'>](https://www.instagram.com/timds_dsign/?hl=nl)   
+[<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=adobe-portfolio&logoColor=blue&color=white' alt='adobe portfolio' height='40'>](https://desaegertim.myportfolio.com/) &nbsp; [<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=blueviolet&color=white' alt='github' height='40'>](https://github.com/pgm-timdesae) &nbsp; [<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/tim-de-saeger-172aa81b4/) &nbsp; [<img src='https://img.shields.io/badge/instagram-informational?style=flat&logo=instagram&logoColor=white&color=orange' alt='instagram' height='40'>](https://www.instagram.com/timds_dsign/?hl=nl)   
 
 
 ---
