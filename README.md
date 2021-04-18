@@ -11,14 +11,13 @@ I am a talented creative graphic designer who strives to develop unique designs.
 consumer in mind.
 
 ---
----
+## Personal info
 
 - :birthday: 20/08/1998 te Aalst
 - :house_with_garden: Kerkhofstraat 71 9406 Ninove
 - :email: timdesaeger@hotmail.be
 - :telephone_receiver: 0472 85 75 98
 - :oncoming_automobile: Rijbewijs B
----
 ---
 
 
