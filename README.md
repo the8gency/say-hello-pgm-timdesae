@@ -38,21 +38,21 @@ SINT- ALOYSIUSCOLLEGE NINOVE — Moderne Wetenschappen
 ---
 ## :pencil2:  Experience
 
-## *2020*
+### *2020*
 
 **GREEN BANANAS MARKETING & COMMUNICATION - GRAPHIC DESIGNER**
 
 Participating in a communication company. I was responsible for all graphic applications, both digital and print. Very varied range of tasks from web designs to car wrapping.
 
 
-## *2018 - 2019*
+### *2018 - 2019*
 
 **B&A RENTAL - JOB STUDENT: RIDER**
 
 A combination of sports, dealing with animals and drawing up time schedules.
 
 
-## *2017 - 2018 - 2019 - 2020*
+### *2017 - 2018 - 2019 - 2020*
 
 **HANDI MOVE INTERNATIONAL - JOB STUDENT: MECHANICIAN**
 
@@ -75,7 +75,9 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 ![Adobe Indesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=red) &nbsp; 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=yellow) &nbsp; 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=blue)
-![Adobe XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=ff69b4) &nbsp; 
+![Adobe XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=ff69b4) &nbsp;
+![Adobe XD](https://img.shields.io/badge/Adobe-Lightroom-informational?style=flat&logo=adobe-lightroom&logoColor=white&color=blue) &nbsp; 
+
 
 ### Programming
 
