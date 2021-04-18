@@ -23,34 +23,34 @@ consumer in mind.
 ---
 ## :mortar_board:  Education
 
-**2017 TOT 2020**
+- **2017 TOT 2020**
 ARTEVELDE HOGESCHOOL — Afgestudeerd aan Artevelde
 hogeschool in de richting Grafische en digitale media,
 afstudeerrichting Crossmedia-Ontwerp. (bachelor-opleiding)
 
-**2012 TOT 2016**
+- **2012 TOT 2016**
 DON BOSCO HALLE — Afgestudeerd in de richting
 Grafische Communicatie.
 
-**2009 TOT 2011**
+- **2009 TOT 2011**
 SINT- ALOYSIUSCOLLEGE NINOVE — Moderne Wetenschappen
 
 ---
 ## :pencil2:  Experience
 
-<span style="color:blue">*2020*</span>
+- *2020*
 
 **GREEN BANANAS MARKETING & COMMUNICATION - GRAPHIC DESIGNER**
 
 Participating in a communication company. I was responsible for all graphic applications, both digital and print. Very varied range of tasks from web designs to car wrapping.
 
-<span style="color:blue">*2018 - 2019*</span>
+- *2018 - 2019*
 
 **B&A RENTAL - JOB STUDENT: RIDER**
 
 A combination of sports, dealing with animals and drawing up time schedules.
 
-<span style="color:blue">*2017 - 2018 - 2019 - 2020*</span>
+- *2017 - 2018 - 2019 - 2020*
 
 **HANDI MOVE INTERNATIONAL - JOB STUDENT: MECHANICIAN**
 
@@ -58,7 +58,7 @@ Highly skilled and reliable student who is not afraid to be
 dirty hands. Carrying out repairs to systems
 for the disabled.
 
-<span style="color:blue">*2016*</span>
+- *2016*
 
 **SYMETHA - COLRUYT - JOB STUDENT**
 
@@ -67,13 +67,32 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 ---
 ## :pencil2:  skills
 
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=orange) &nbsp; 
+![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange) &nbsp; 
+![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=orange) &nbsp; 
+![SASS](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=orange)  
 
+![node.js](https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=Node.js&logoColor=white&color=blue) &nbsp; 
+![visual studio](https://img.shields.io/badge/Editor-VisualStudioCode?style=flat&logo=visual-studio-code&logoColor=white&color=blue) &nbsp; 
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=blue) 
+
+![Adobe Indesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=yellow) &nbsp; 
+![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=yellow) &nbsp; 
+![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=yellow)
+![Adobe XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=yellow) &nbsp; 
+
+
+---
+## Current 
+
+- I am developing my programming skills in this degree.
+- I like to combine my passion for design and programming.
+- I still do some little design projects to extend my portfolio
 
 ---
 ## Stats of this assignment
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-timdesae)](https://github.com/anuraghazra/github-readme-stats)
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-timdesae)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Thanks! :heart:
