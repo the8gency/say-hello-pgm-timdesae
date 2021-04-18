@@ -67,6 +67,14 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 ---
 ## :pencil2:  skills
 
+### Design
+
+![Adobe Indesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=red) &nbsp; 
+![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=yellow) &nbsp; 
+![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=blue)
+![Adobe XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=ff69b4) &nbsp; 
+
+
 ![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=orange) &nbsp; 
 ![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange) &nbsp; 
 ![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=orange) &nbsp; 
@@ -75,11 +83,6 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 ![node.js](https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=Node.js&logoColor=white&color=blue) &nbsp; 
 ![visual studio](https://img.shields.io/badge/Editor-VisualStudioCode?style=flat&logo=visual-studio-code&logoColor=white&color=blue) &nbsp; 
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=blue) 
-
-![Adobe Indesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=yellow) &nbsp; 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=yellow) &nbsp; 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=yellow)
-![Adobe XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=yellow) &nbsp; 
 
 
 ---
@@ -95,7 +98,7 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 [![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-timdesae)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Thanks! :heart:
+Thanks for your attention! :heart:
 
 
 
