@@ -58,7 +58,7 @@ Highly skilled and reliable student who is not afraid to be
 dirty hands. Carrying out repairs to systems
 for the disabled.
 
-- *2016*
+- <style>p{color:red;}*2016*</style>
 
 **SYMETHA - COLRUYT - JOB STUDENT**
 
@@ -74,12 +74,12 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=blue)
 ![Adobe XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=ff69b4) &nbsp; 
 
+### Programming
 
-![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=orange) &nbsp; 
-![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange) &nbsp; 
-![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=orange) &nbsp; 
-![SASS](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=orange)  
-
+![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue) &nbsp; 
+![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue) &nbsp; 
+![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue) &nbsp; 
+![SASS](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=blue)  
 ![node.js](https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=Node.js&logoColor=white&color=blue) &nbsp; 
 ![visual studio](https://img.shields.io/badge/Editor-VisualStudioCode?style=flat&logo=visual-studio-code&logoColor=white&color=blue) &nbsp; 
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=blue) 
