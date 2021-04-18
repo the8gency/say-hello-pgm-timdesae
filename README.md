@@ -97,7 +97,7 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 
 
 ---
-## Socials
+## :globe_with_meridians: Socials
 
 [<img src='https://img.shields.io/badge/Adobe-Portfolio-informational?style=flat&logo=adobe-portfolio&logoColor=blue&color=blue' alt='adobe portfolio' height='30'>](https://desaegertim.myportfolio.com/) &nbsp; [<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=blueviolet&color=white' alt='github' height='30'>](https://github.com/pgm-timdesae) &nbsp; [<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='30'>](https://www.linkedin.com/in/tim-de-saeger-172aa81b4/) &nbsp; [<img src='https://img.shields.io/badge/instagram-informational?style=flat&logo=instagram&logoColor=white&color=orange' alt='instagram' height='30'>](https://www.instagram.com/timds_dsign/?hl=nl)   
 
@@ -110,7 +110,7 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 - I still do some little design projects to extend my portfolio
 
 ---
-## Stats
+## :chart_with_upwards_trend: Stats
 
 ![GitHub stats of me](https://github-readme-stats.vercel.app/api?username=pgm-timdesae&show_icons=true) &nbsp;  &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-timdesae)](https://github.com/pgm-timdesae/github-readme-stats) 
 
