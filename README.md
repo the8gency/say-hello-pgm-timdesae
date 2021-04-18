@@ -114,9 +114,6 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 
 ![GitHub stats of me](https://github-readme-stats.vercel.app/api?username=pgm-timdesae&show_icons=true) &nbsp;  &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-timdesae)](https://github.com/pgm-timdesae/github-readme-stats) 
 
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-timdesae)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Thanks for your attention! :heart:
 
 
