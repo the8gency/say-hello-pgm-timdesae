@@ -1,4 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-timdesae)](https://github.com/anuraghazra/github-readme-stats)
 
 # Helo! :wave: I am De Saeger Tim
 
@@ -68,7 +67,16 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 ---
 ## :pencil2:  skills
 
-?style=for-the-badge&logo=appveyor
+- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+
+
+---
+## Stats of this assignment
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-timdesae)](https://github.com/anuraghazra/github-readme-stats)
+
+
+Thanks! :heart:
 
 
 
