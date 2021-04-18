@@ -4,7 +4,9 @@
 ---
 ## Personal info
 
-![Image of me](https://scontent-bru2-1.xx.fbcdn.net/v/t1.6435-9/104998933_3175331759222601_7489907506822802096_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=8TFZhDHWQiIAX_mBFjh&_nc_ht=scontent-bru2-1.xx&oh=4e534a6c1382377bbb5ac321dde5d5de&oe=60A08C60=50x50)
+![Image of me](https://scontent-bru2-1.xx.fbcdn.net/v/t1.6435-9/104998933_3175331759222601_7489907506822802096_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=8TFZhDHWQiIAX_mBFjh&_nc_ht=scontent-bru2-1.xx&oh=4e534a6c1382377bbb5ac321dde5d5de&oe=60A08C60&size=50x50)
+
+[<img src="[./img/tim.jpeg]" width="200"/>](tim.png)
 
 - :birthday: 20/08/1998 te Aalst
 - :house_with_garden: Kerkhofstraat 71 9406 Ninove
