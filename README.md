@@ -25,18 +25,18 @@ consumer in mind.
 ---
 ## :mortar_board:  Education
 
-### *2017 TOT 2020*
+### *2017 - 2020*
 
 **ARTEVELDE HOGESCHOOL** — Graduated from Artevelde
 university of applied sciences in the direction of Graphic and digital media,
 specialization Cross Media Design. (bachelor degree)
 
-### *2012 TOT 2016*
+### *2012 - 2016*
 
 **DON BOSCO HALLE** — Graduated 
 Graphic communication.
 
-### *2009 TOT 2011*
+### *2009 - 2011*
 
 **SINT- ALOYSIUSCOLLEGE NINOVE** — Modern sciences
 
