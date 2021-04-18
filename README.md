@@ -10,7 +10,7 @@
 - :oncoming_automobile: Rijbewijs B
 
 ---
-## :bust_in_silhouette: About me
+## :bust_in_silhouette:  About me
 
 Graduated Graphic design student with a big love for web and programming.
 
@@ -20,7 +20,7 @@ I am a talented creative graphic designer who strives to develop unique designs.
 consumer in mind.
 
 ---
-## :mortar_board: Education
+## :mortar_board:  Education
 
 **2017 TOT 2020**
 ARTEVELDE HOGESCHOOL — Afgestudeerd aan Artevelde
@@ -35,7 +35,7 @@ Grafische Communicatie.
 SINT- ALOYSIUSCOLLEGE NINOVE — Moderne Wetenschappen
 
 ---
-## :pencil2: Experience
+## :pencil2:  Experience
 
 <span style="color:blue">*2020*</span>
 
@@ -64,7 +64,9 @@ for the disabled.
 Collaborate with non-native speakers. The distribution of parcels in the correct municipality and collection on pallets. Good organization was a must. Perform band work at a fast pace.
 
 ---
-## :pencil2: skills
+## :pencil2:  skills
+
+?style=for-the-badge&logo=appveyor
 
 
 
