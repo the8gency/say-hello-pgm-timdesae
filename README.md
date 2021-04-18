@@ -59,6 +59,7 @@ dirty hands. Carrying out repairs to systems
 for the disabled.
 
 - <style>p{color:red;}*2016*</style>
+<span style="color:blue">some *blue* text</span>.
 
 **SYMETHA - COLRUYT - JOB STUDENT**
 
