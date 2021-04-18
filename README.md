@@ -99,7 +99,7 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 ---
 ## Socials
 
-[<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=adobe-portfolio&logoColor=blue&color=white' alt='adobe portfolio' height='40'>](https://desaegertim.myportfolio.com/) &nbsp; [<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=blueviolet&color=white' alt='github' height='40'>](https://github.com/pgm-timdesae) &nbsp; [<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/tim-de-saeger-172aa81b4/) &nbsp; [<img src='https://img.shields.io/badge/instagram-informational?style=flat&logo=instagram&logoColor=white&color=orange' alt='instagram' height='40'>](https://www.instagram.com/timds_dsign/?hl=nl)   
+[<img src='https://img.shields.io/badge/Adobe-portfolio-informational?style=flat&logo=adobe-portfolio&logoColor=blue&color=white' alt='adobe portfolio' height='40'>](https://desaegertim.myportfolio.com/) &nbsp; [<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=blueviolet&color=white' alt='github' height='40'>](https://github.com/pgm-timdesae) &nbsp; [<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/tim-de-saeger-172aa81b4/) &nbsp; [<img src='https://img.shields.io/badge/instagram-informational?style=flat&logo=instagram&logoColor=white&color=orange' alt='instagram' height='40'>](https://www.instagram.com/timds_dsign/?hl=nl)   
 
 
 ---
