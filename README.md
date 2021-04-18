@@ -41,7 +41,7 @@ Graphic communication.
 **SINT- ALOYSIUSCOLLEGE NINOVE** — Modern sciences
 
 ---
-## :pencil2:  Experience
+## :construction_worker:  Experience
 
 ### *2020*
 
@@ -77,7 +77,7 @@ Collaborate with non-native speakers. The distribution of parcels in the correct
 
 ### Design
 
-![Adobe Indesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=red) &nbsp; 
+![Adobe Indesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=red&color=red) &nbsp; 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=yellow) &nbsp; 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=blue)
 ![Adobe XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=ff69b4) &nbsp;
