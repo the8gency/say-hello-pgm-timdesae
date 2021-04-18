@@ -1,4 +1,5 @@
 # Helo! :wave: I am De Saeger Tim
+
 ---
 ## About me
 
@@ -8,6 +9,7 @@ I am a very determined and enthusiastic graphic designer with great learning abi
 
 I am a talented creative graphic designer who strives to develop unique designs. Able to think outside the box to generate ideas and concepts with the user and
 consumer in mind.
+
 ---
 ---
 
