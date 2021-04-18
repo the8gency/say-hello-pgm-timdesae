@@ -4,6 +4,8 @@
 ---
 ## Personal info
 
+![alt text](https://github.com/[pgm-timdesae]/image.jpg?raw=true)
+
 - :birthday: 20/08/1998 te Aalst
 - :house_with_garden: Kerkhofstraat 71 9406 Ninove
 - :email: timdesaeger@hotmail.be
